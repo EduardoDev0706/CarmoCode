@@ -2,3 +2,25 @@ baseURL = 'https://github.com/EduardoDev0706/CarmoCode/'
 languageCode = 'pt-br'
 title = 'CarmoCode'
 theme = 'hextra'
+
+[menu]
+[[menu.main]]
+name = "Posts"
+pageRef = "/posts"
+weight = 10
+
+[[menu.main]]
+name = "Contato"
+pageRef = "/contato"
+weight = 20
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[[menu.main]]
+name = "Projetos"
+pageRef = "/projetos"
+weight = 15
+
+
+
