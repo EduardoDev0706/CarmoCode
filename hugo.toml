@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://github.com/EduardoDev0706/CarmoCode/'
 languageCode = 'pt-br'
 title = 'CarmoCode'
 theme = 'hextra'
