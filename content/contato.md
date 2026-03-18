@@ -8,8 +8,10 @@ Programador, leitor e um polímata em desenvolvimento.
 
 Para quem quer acompanhar meu trabalho ou entrar em contato:
 
-* **GitHub:** [https://github.com/EduardoDev0706]
-* **Linkedin:** [https://www.linkedin.com/in/eduardo-do-carmodev/]
-* **E-mail:** [eduardodev2026@gmail.com]
+* **GitHub:** [EduardoDev](https://github.com/EduardoDev0706)
+* **Linkedin:** [EduardoDev](https://www.linkedin.com/in/eduardo-do-carmodev/)
+* **E-mail:** eduardodev2026@gmail.com
 
 Que a sorte brilhe para aqueles que se prepararam.
+
+
