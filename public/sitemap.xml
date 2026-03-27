@@ -2,17 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/EduardoDev0706/CarmoCode/</loc>
+    <loc>https://github.com/EduardoDev0706/CarmoCode/posts/serie-cs50/</loc>
+    <lastmod>2026-03-27T19:54:16-03:00</lastmod>
+  </url><url>
+    <loc>https://github.com/EduardoDev0706/CarmoCode/</loc>
+    <lastmod>2026-03-27T19:54:16-03:00</lastmod>
+  </url><url>
+    <loc>https://github.com/EduardoDev0706/CarmoCode/tags/cs50/</loc>
+    <lastmod>2026-03-27T19:54:16-03:00</lastmod>
+  </url><url>
+    <loc>https://github.com/EduardoDev0706/CarmoCode/tags/fundamentos/</loc>
+    <lastmod>2026-03-27T19:54:16-03:00</lastmod>
+  </url><url>
+    <loc>https://github.com/EduardoDev0706/CarmoCode/tags/harvard/</loc>
+    <lastmod>2026-03-27T19:54:16-03:00</lastmod>
+  </url><url>
+    <loc>https://github.com/EduardoDev0706/CarmoCode/tags/ia/</loc>
+    <lastmod>2026-03-27T19:54:16-03:00</lastmod>
+  </url><url>
+    <loc>https://github.com/EduardoDev0706/CarmoCode/posts/</loc>
+    <lastmod>2026-03-27T19:54:16-03:00</lastmod>
+  </url><url>
+    <loc>https://github.com/EduardoDev0706/CarmoCode/tags/programa%C3%A7%C3%A3o/</loc>
+    <lastmod>2026-03-27T19:54:16-03:00</lastmod>
+  </url><url>
+    <loc>https://github.com/EduardoDev0706/CarmoCode/tags/</loc>
+    <lastmod>2026-03-27T19:54:16-03:00</lastmod>
+  </url><url>
+    <loc>https://github.com/EduardoDev0706/CarmoCode/contato/</loc>
+    <lastmod>2026-03-18T16:20:37-03:00</lastmod>
+  </url><url>
+    <loc>https://github.com/EduardoDev0706/CarmoCode/posts/o-inicio/</loc>
     <lastmod>2026-03-17T21:16:11-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/EduardoDev0706/CarmoCode/posts/o-inicio/</loc>
-    <lastmod>2026-03-17T21:16:11-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/EduardoDev0706/CarmoCode/posts/</loc>
-    <lastmod>2026-03-17T21:16:11-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/EduardoDev0706/CarmoCode/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/EduardoDev0706/CarmoCode/tags/</loc>
+    <loc>https://github.com/EduardoDev0706/CarmoCode/categories/</loc>
   </url>
 </urlset>

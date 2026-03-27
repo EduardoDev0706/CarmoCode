@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CarmoCode – Posts</title>
-    <link>https://github.com/EduardoDev0706/CarmoCode/posts/</link>
-    <description>Recent content in Posts on CarmoCode</description>
+    <title>CarmoCode – IA</title>
+    <link>https://github.com/EduardoDev0706/CarmoCode/tags/ia/</link>
+    <description>Recent content in IA on CarmoCode</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Fri, 27 Mar 2026 19:54:16 -0300</lastBuildDate>
     
-	  <atom:link href="https://github.com/EduardoDev0706/CarmoCode/posts/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://github.com/EduardoDev0706/CarmoCode/tags/ia/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -30,21 +30,6 @@
 &lt;p&gt;O curso se torna cada vez mais relevante conforme a IA se torna mais complexa e ocupa o espaço de &amp;ldquo;escrever o código&amp;rdquo; que é gerado (e como tem código mal feito, credo), pois o desenvolvedor sério não sobe pra produção o código que ele não revisou e testou (uma prática comum mesmo antes do ChatGPT ou Claude). Sei que conforme eu for amadurecendo na área, vou ter que apagar muito incêndio gerado por conta desse tipo de prática, mas esse precisa ser o papel da nova geração, aprender com os mais velhos e ser capaz de resolver problemas que eles não conseguiram resolver (ou que criaram).&lt;/p&gt;
 &lt;p&gt;Vou me esforçar pra passar a experiência que é lidar com esse curso, as barreiras que vou transpor e compartilhar o que mais me chamar a atenção. Não é um curso feito pra &amp;ldquo;fazer&amp;rdquo;, é realmente algo que vale a pena se esforçar para entender, pois diferencia um bom profissional de um colador de código (antigamente do Stack Overflow, hoje em dia da sua LLM favorita).&lt;/p&gt;
 &lt;p&gt;Animado pelo que está por vir.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>O Inicio</title>
-      <link>https://github.com/EduardoDev0706/CarmoCode/posts/o-inicio/</link>
-      <pubDate>Tue, 17 Mar 2026 21:16:11 -0300</pubDate>
-      
-      <guid>https://github.com/EduardoDev0706/CarmoCode/posts/o-inicio/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&amp;ldquo;Palavras produzem uma interface maravilhosa. Muito flexível. E menos aterrorizante do que se deparar com a realidade por trás da tela.&amp;rdquo; - End Poem, Minecraft&lt;/p&gt;
-&lt;p&gt;Toda boa experiência no qual tenho lembrança que não foi proporcionada por natureza ou livros, foi produzida pela tecnologia. As conversas que pude ter com pessoas que amo a quilômetros de distância, a descoberta de um tema, texto ou curiosidade que nunca teria acesso morando onde moro, convivendo com quem convivo. Quando escrevo esse texto de introdução o mundo passa por diversos conflitos, dúvidas quanto ao futuro da profissão que escolhi pairam, e sempre tem quem vende o fósforo e quem vende o extintor desse incêndio que é divulgado. Independente do que ocorra,estudo tecnologia porque é algo que amo, e sei que posso impactar muita gente de forma positiva por meio dela. Seja bem-vindo ao meu blog. Que a jornada seja ótima e desafiadora. - Eduardo do Carmo&lt;/p&gt;
 
       </description>
     </item>

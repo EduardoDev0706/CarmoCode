@@ -1,0 +1,20 @@
++++
+date = '2026-03-27T19:54:16-03:00'
+draft = false
+title = 'A Série do CS50 - O Começo'
+tags = ["CS50", "Harvard", "Programação", "Fundamentos", "IA"]
++++
+
+Todo dia sai um pilantra e um otário de casa, eles se encontram e fazem negócio. Se fizessem um buscador de posts que mencionassem os seguintes termos: "IA", "Emprego" e "Acabar", dava pra cobrir hectáres de terra que ainda estaria surgindo mais, a cada 15 minutos devem sair uns 10/20 posts desses, e a tendência a cada notícia que sai é esse fluxo aumentar.
+
+O seu desespero e ansiedade é a combinação perfeita pro tipo de mercadoria que essas pessoas tentam te empurrar: soluções baratas, sem fundamento ou experiência necessária tentando PREDIZER O FUTURO! É sempre a porra de um guru do Linkedin ou um imbecil do Reddit falando que a profissão do programador acabou, pelo menos uma vez por ano a nossa profissão acaba e continua relevante, talvez não o mesmo céu que foi na época da pandemia, mas ainda é relevante, ainda existem vagas (apesar que mais escassas), e pra quem tem paixão (e muito ódio pelo desemprego), sempre vai ter uma oportunidade. A gente faz o que pode com as ferramentas que temos no momento.
+
+Com isso esclarecido, vamos ao motivo dessa série: CS50. O maior MOOC (Massive Open Online Course) do mundo, apresentado pelo David J. Malan, professor e um dos melhores comunicadores da nossa área, facilmente. Todo ano o curso é renovado, tentando se atentar ao que é mais relevante pra área, sem abandonar os fundamentos que todo curso competente de CS tem: Algoritmos, Estrutura de Dados, Memória.
+
+O curso se torna cada vez mais relevante conforme a IA se torna mais complexa e ocupa o espaço de "escrever o código" que é gerado (e como tem código mal feito, credo), pois o desenvolvedor sério não sobe pra produção o código que ele não revisou e testou (uma prática comum mesmo antes do ChatGPT ou Claude). Sei que conforme eu for amadurecendo na área, vou ter que apagar muito incêndio gerado por conta desse tipo de prática, mas esse precisa ser o papel da nova geração, aprender com os mais velhos e ser capaz de resolver problemas que eles não conseguiram resolver (ou que criaram).
+
+Vou me esforçar pra passar a experiência que é lidar com esse curso, as barreiras que vou transpor e compartilhar o que mais me chamar a atenção. Não é um curso feito pra "fazer", é realmente algo que vale a pena se esforçar para entender, pois diferencia um bom profissional de um colador de código (antigamente do Stack Overflow, hoje em dia da sua LLM favorita).
+
+Animado pelo que está por vir.
+
+
